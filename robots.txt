@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-asx0t6.trans88.online/sitemap.xml
